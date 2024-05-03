@@ -45,6 +45,7 @@ Caso tenha a necessidade de criar um outro diretório que vá exceder esse limit
 ## Temas
 
 Os temas propostos são:
+- 00_referencias
 - contas
 - produtos
 - metas
