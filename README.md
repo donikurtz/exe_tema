@@ -13,7 +13,7 @@ Escalabilidade: Conforme o projeto cresce, uma estrutura bem definida facilita a
 
 ## Padronização
 
-Será adotado um esquema de nomenclatura padronizado para os diretórios dos projetos, onde eles iniciarão com o ano com 4 dígitos, o mês numérico com dois dígitos, o caractere ´_´ e seguido de um nome com todas as letras em minúsculo, que não ultrapassem 24 caracteres e não contenha nenhum caractere especial, com exeção de ´_´ou ´-´.
+Será adotado um esquema de nomenclatura padronizado para os diretórios dos projetos, onde eles iniciarão com o ano com 4 dígitos, o mês numérico com dois dígitos, o caractere ´_´ e seguido de um nome com todas as letras em minúsculo, que não ultrapassem 24 caracteres e não contenha nenhum caractere especial, com exeção de ´_´ ou ´-´.
 
 ## Estrutura das pastas:
 
