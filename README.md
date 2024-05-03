@@ -15,7 +15,7 @@ Escalabilidade: Conforme o projeto cresce, uma estrutura bem definida facilita a
 
 Será adotado um esquema de nomenclatura padronizado para os diretórios dos projetos, onde eles iniciarão com o ano com 4 dígitos, o mês numérico com dois dígitos, o caractere ´_´ e seguido de um nome com todas as letras em minúsculo, que não ultrapassem 24 caracteres e não contenha nenhum caractere especial, com exeção de ´_´ ou ´-´.
 
-## Estrutura das pastas:
+## Estrutura das pastas
 
 1. /01_dados;
     - /bruto: Dados brutos, exatamente como foram obtidos.
@@ -32,4 +32,8 @@ Será adotado um esquema de nomenclatura padronizado para os diretórios dos pro
 4. /04_relatorio: Relatórios analíticos ou de pesquisa, geralmente em formatos como PDF ou Markdown.
 5. /00_README.md: Uma descrição do projeto, como configurá-lo, como executar os scripts e qualquer outra informação relevante que ajudaria um novo colaborador a entender rapidamente o projeto.
 
+## Acesso
 
+O acesso a qualquer arquivo não pode estar a mais de 5 clics, exemplo:
+
+´tema>202405_exe-projeto>01_dados>bruto>WA_Fn-UseC_-Telco-Customer-Churn.csv´
