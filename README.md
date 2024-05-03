@@ -15,6 +15,8 @@ Escalabilidade: Conforme o projeto cresce, uma estrutura bem definida facilita a
 
 Será adotado um esquema de nomenclatura padronizado para os diretórios dos projetos, onde eles iniciarão com o ano com 4 dígitos, o mês numérico com dois dígitos, o caractere ´_´ e seguido de um nome com todas as letras em minúsculo, que não ultrapassem 24 caracteres e não contenha nenhum caractere especial, com exeção de ´_´ ou ´-´.
 
+Caso projetos semelhantes estejam sendo iniciados no mesmo mês, então eles devem estar no mesmo diretório e os focais detalhados no README.md.
+
 ## Estrutura das pastas
 
 1. /01_dados;
@@ -37,3 +39,16 @@ Será adotado um esquema de nomenclatura padronizado para os diretórios dos pro
 O acesso a qualquer arquivo não pode estar a mais de 5 clics, exemplo:
 
 ´tema>202405_exe-projeto>01_dados>bruto>WA_Fn-UseC_-Telco-Customer-Churn.csv´
+
+Caso tenha a necessidade de criar um outro diretório que vá exceder esse limite, então o arquivo deve ser repensado em algum outro local.
+
+## Temas
+
+Os temas propostos são:
+- contas
+- produtos
+- metas
+
+## LGPD
+
+Nenhuma base ou código deve conter dados pessoais e caso seja necessário esses dados devem estar anonimizados.
